@@ -163,6 +163,12 @@ a:focus, a:hover {
     margin-right: 10px;
 }
 
+.tela1{
+  margin-bottom: 20px;
+}
+
+
+
 @media (min-width: 768px) {
   .masthead {
     height: 100%;
