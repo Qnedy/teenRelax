@@ -1,6 +1,6 @@
 # Teen Relax
 
-**[View Live Preview](https://qnedy.github.io)**
+**[View Live Preview](https://qnedy.github.io/teenRelax/)**
 
 ## Status
 
